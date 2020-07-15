@@ -1,0 +1,34 @@
+C:\Users\Даниил Новиков\source\repos\RSA alg\RSA alg\bin\Debug\RSA alg.exe.config
+C:\Users\Даниил Новиков\source\repos\RSA alg\RSA alg\bin\Debug\RSA alg.exe
+C:\Users\Даниил Новиков\source\repos\RSA alg\RSA alg\bin\Debug\RSA alg.pdb
+C:\Users\Даниил Новиков\source\repos\RSA alg\RSA alg\obj\Debug\RSA alg.csprojAssemblyReference.cache
+C:\Users\Даниил Новиков\source\repos\RSA alg\RSA alg\obj\Debug\RSA_alg.Form1.resources
+C:\Users\Даниил Новиков\source\repos\RSA alg\RSA alg\obj\Debug\RSA_alg.Properties.Resources.resources
+C:\Users\Даниил Новиков\source\repos\RSA alg\RSA alg\obj\Debug\RSA alg.csproj.GenerateResource.cache
+C:\Users\Даниил Новиков\source\repos\RSA alg\RSA alg\obj\Debug\RSA alg.exe
+C:\Users\Даниил Новиков\source\repos\RSA alg\RSA alg\obj\Debug\RSA alg.pdb
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\bin\Debug\RSA alg.exe.config
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\bin\Debug\RSA alg.exe
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\bin\Debug\RSA alg.pdb
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA alg.csprojAssemblyReference.cache
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA_alg.Properties.Resources.resources
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA alg.csproj.GenerateResource.cache
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA alg.exe
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA alg.pdb
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA_alg.GenerationKeysForm.resources
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA_alg.EncryptionForm.resources
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA_alg.DecryptionForm.resources
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA_alg.CompareAlgorithms.resources
+C:\Users\Даниил Новиков\Desktop\Программирование\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA_alg.MainForm.resources
+C:\Users\Даниил Новиков\Desktop\УЧЕБА\Дисциплины\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA alg.csprojAssemblyReference.cache
+C:\Users\Даниил Новиков\Desktop\УЧЕБА\Дисциплины\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA_alg.DecryptionForm.resources
+C:\Users\Даниил Новиков\Desktop\УЧЕБА\Дисциплины\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA_alg.EncryptionForm.resources
+C:\Users\Даниил Новиков\Desktop\УЧЕБА\Дисциплины\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA_alg.MainForm.resources
+C:\Users\Даниил Новиков\Desktop\УЧЕБА\Дисциплины\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA_alg.GenerationKeysForm.resources
+C:\Users\Даниил Новиков\Desktop\УЧЕБА\Дисциплины\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA_alg.Properties.Resources.resources
+C:\Users\Даниил Новиков\Desktop\УЧЕБА\Дисциплины\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA alg.csproj.GenerateResource.cache
+C:\Users\Даниил Новиков\Desktop\УЧЕБА\Дисциплины\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA alg.exe
+C:\Users\Даниил Новиков\Desktop\УЧЕБА\Дисциплины\Курсовая работа 4 семестр\RSA alg\RSA alg\obj\Debug\RSA alg.pdb
+C:\Users\Даниил Новиков\Desktop\УЧЕБА\Дисциплины\Курсовая работа 4 семестр\RSA alg\RSA alg\bin\Debug\RSA alg.exe.config
+C:\Users\Даниил Новиков\Desktop\УЧЕБА\Дисциплины\Курсовая работа 4 семестр\RSA alg\RSA alg\bin\Debug\RSA alg.exe
+C:\Users\Даниил Новиков\Desktop\УЧЕБА\Дисциплины\Курсовая работа 4 семестр\RSA alg\RSA alg\bin\Debug\RSA alg.pdb

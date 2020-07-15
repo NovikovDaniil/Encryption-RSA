@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA alg", "RSA alg\RSA alg.csproj", "{395D8DED-F374-4487-A054-29DB4283F5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тестовое приложение", "Тестовое приложение\Тестовое приложение.csproj", "{CEE9F0DC-B485-445E-A770-B613DBD03034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{395D8DED-F374-4487-A054-29DB4283F5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395D8DED-F374-4487-A054-29DB4283F5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395D8DED-F374-4487-A054-29DB4283F5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395D8DED-F374-4487-A054-29DB4283F5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE9F0DC-B485-445E-A770-B613DBD03034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE9F0DC-B485-445E-A770-B613DBD03034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE9F0DC-B485-445E-A770-B613DBD03034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE9F0DC-B485-445E-A770-B613DBD03034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A18088-1B95-44B8-97E7-4ED53F3A3F50}
+	EndGlobalSection
+EndGlobal
